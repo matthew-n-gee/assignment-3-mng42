@@ -1,0 +1,16 @@
+---
+title: "Collaborative Website"
+date: "2023-02-15"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Who we are:
+
+### Matthew Gee: https://github.com/matthew-n-gee
+### Georgia Sauermann: https://github.com/gsauermann
+
+![*This website is created for assignment 3 completion of NTRES 6100: Collaborative and Reproducible Data Science in R at Cornell University*](https://nt246.github.io/NTRES-6100-data-science/assets/logo.png)
