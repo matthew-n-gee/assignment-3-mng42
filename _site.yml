@@ -1,0 +1,9 @@
+output_dir: "."
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Matthew"
+      href: Matthew.html
+    - text: "Georgia"
+      href: georgia.html  
