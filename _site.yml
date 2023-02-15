@@ -6,4 +6,10 @@ navbar:
     - text: "Matthew"
       href: Matthew.html
     - text: "Georgia"
-      href: georgia.html  
+      href: georgia.html
+output:
+  html_document:
+    theme: spacelab
+    highlight: textmate
+    toc: true 
+    toc_float: true 
